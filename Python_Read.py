@@ -1,4 +1,4 @@
-#programe to count charator form the string
+#program to count character form the string
 import pprint
 message = "ASASASAAAAasaasaaaaaaaaaaaaa"
 count = {}

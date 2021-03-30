@@ -1,4 +1,4 @@
-#Break
+#Break e.g. with find the prime number
 
 for n in range(2, 10):
     for x in range(2, n):
@@ -10,5 +10,3 @@ for n in range(2, 10):
         print(n, 'is a prime number')
 
 
-#Adding test mesaage
-#adding kiran in the
